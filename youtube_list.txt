@@ -6,3 +6,5 @@ googleads.g.doubleclick.net
 rr2---sn-8qu-t0aee.googlevideo.com
 rr3---sn-8qu-t0ay.googlevideo.com
 rr1---sn-8qu-t0ay.googlevideo.com
+rr1---sn-8qu-t0ak.googlevideo.com
+r5---sn-8qu-t0a6.googlevideo.com
